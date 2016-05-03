@@ -1,0 +1,32 @@
+{
+  "globals": {
+    "title": "DevFreeBooks",
+    "description": "A huge collection of free books for developers",
+    "author": "Caio Ribeiro Pereira",
+    "email": "caio.ribeiro.pereira@gmail.com",
+    "root_url": {
+      "development": "http://localhost:3000/",
+      "production": "https://devfreebooks.org/"
+    },
+    "devfreecasts": {
+      "title": "DevFreeCasts",
+      "about": "A huge collection of free screencasts for developers",
+      "url": "http://devfreecasts.org?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
+    },
+    "devgroups": {
+      "title": "DevGroups",
+      "about": "A huge list of developer groups around the world",
+      "url": "http://devgroups.org?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
+    },
+    "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
+    "platforms": ["bitcoin", "nodejs", "angularjs",
+                  "meteor","go", "firefoxos",
+                  "python", "java", "ios",
+                  "elixir", "php", "ruby",
+                  "django", "git", "groovy",
+                  "scala", "vim", "famous",
+                  "http", "haskell", "rails",
+                  "playframework", "javascript", "android",
+                  "emberjs", "backbone"]
+  }
+}
